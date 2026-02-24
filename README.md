@@ -36,7 +36,7 @@ I combine product thinking with solid engineering principles to ship maintainabl
 
 ## Tech Stack
 
-### Frontend (Web First)
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
