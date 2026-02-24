@@ -1,17 +1,13 @@
 <h1 align="center">Juanjo Fernández</h1>
 <h3 align="center">Senior Full-Stack Web Developer • Clean Architecture • AI-Driven Products</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juanjofr">
-    <img src="https://img.shields.io/badge/LinkedIn-juanjoFR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/juanjo_fr">
-    <img src="https://img.shields.io/badge/Twitter-@juanjo_fr-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:hi@juanjofr.com">
-    <img src="https://img.shields.io/badge/Email-hi@juanjofr.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjoFR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjofr)
+[![Twitter](https://img.shields.io/badge/Twitter-@juanjo_fr-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/juanjo_fr)
+[![Email](https://img.shields.io/badge/Email-hi@juanjofr.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@juanjofr.com)
+
+</div>
 
 ---
 
