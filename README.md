@@ -27,7 +27,7 @@ I combine product thinking with solid engineering principles to ship maintainabl
 
 - Building end-to-end web applications with **React & Next.js**
 - Designing scalable backend architectures with **Node.js**
-- Working with **PostgreSQL - Supabase**
+- Working with **PostgreSQL** (relational data modeling) and **MongoDB** (NoSQL document databases)
 - Applying **Hexagonal Architecture** in real-world production systems
 - Integrating **AI-driven features and AI agents into web platforms**
 - Launching and iterating on independent software products
@@ -48,7 +48,7 @@ I combine product thinking with solid engineering principles to ship maintainabl
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-F66C21?style=flat-square&logo=firebase&logoColor=fff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
