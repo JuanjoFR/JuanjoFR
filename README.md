@@ -63,10 +63,6 @@ I combine product thinking with solid engineering principles to ship maintainabl
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 </p>
 
-- **Unit testing:** Vitest + React Testing Library
-- **Integration testing:** Vitest
-- **End-to-end testing:** Playwright
-
 ### Architecture & Engineering
 
 <p>
