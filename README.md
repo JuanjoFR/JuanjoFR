@@ -1,5 +1,5 @@
 <h1 align="center">Juanjo Fernández</h1>
-<h3 align="center">Senior Full-Stack Web Developer • Clean Architecture • AI-Driven Products</h3>
+<h3 align="center">Senior Full-Stack Web Developer • Clean Architecture • AI-Native Products</h3>
 
 <div align="center">
 
@@ -27,8 +27,9 @@ I combine product thinking with solid engineering principles to ship maintainabl
 
 - Building end-to-end web applications with **React & Next.js**
 - Designing scalable backend architectures with **Node.js**
-- Working with **PostgreSQL** (relational data modeling) and **MongoDB** (NoSQL document databases)
-- Applying **Hexagonal Architecture** in real-world production systems
+- Working with **Supabase** (PostgreSQL-based backend platform) and **MongoDB** (NoSQL document databases)
+- Designing scalable systems using an architecture that combines **DDD tactical patterns, Clean Architecture principles, and Hexagonal (Ports & Adapters)** — enabling maintainable, testable, and evolution-friendly software
+- Using **agentic programming** with a **spec-driven development approach** to complete specifications for reliable, production-ready workflows
 - Integrating **AI-driven features and AI agents into web platforms**
 - Launching and iterating on independent software products
 
@@ -50,13 +51,26 @@ I combine product thinking with solid engineering principles to ship maintainabl
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Firebase-F66C21?style=flat-square&logo=firebase&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
+
+### Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+</p>
+
+- **Unit testing:** Vitest + React Testing Library
+- **Integration testing:** Vitest
+- **End-to-end testing:** Playwright
 
 ### Architecture & Engineering
 
 <p>
+  <img src="https://img.shields.io/badge/DDD-0A0A0A?style=flat-square"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/Hexagonal%20Architecture-222222?style=flat-square"/>
   <img src="https://img.shields.io/badge/AI%20Integration-000000?style=flat-square"/>
