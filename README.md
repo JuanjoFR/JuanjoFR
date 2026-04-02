@@ -49,9 +49,9 @@ I combine product thinking with solid engineering principles to ship maintainabl
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Firebase-F66C21?style=flat-square&logo=firebase&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-234ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
