@@ -76,6 +76,12 @@ I also integrate **AI capabilities into real products**, including agent-based w
 
 ## Connect
 
+I’m open to:
+
+- High-impact engineering roles
+- AI-powered product collaborations
+- Interesting technical challenges
+
 📩 hi@juanjofr.com  
 🔗 LinkedIn: https://www.linkedin.com/in/juanjofr  
 𝕏 Twitter: https://x.com/juanjo_fr
